@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "YourUsername\\LaravelServiceScaffold\\": "src/"
+      "erdikoroglu\\LaravelServiceScaffold\\": "src/"
     }
   },
   "extra": {
