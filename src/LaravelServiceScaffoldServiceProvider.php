@@ -3,7 +3,7 @@
 namespace erdikoroglu\LaravelServiceScaffold;
 
 use Illuminate\Support\ServiceProvider;
-use YourUsername\LaravelServiceScaffold\Commands\MakeServiceScaffold;
+use erdikoroglu\LaravelServiceScaffold\Commands\MakeServiceScaffold;
 
 class LaravelServiceScaffoldServiceProvider extends ServiceProvider
 {
